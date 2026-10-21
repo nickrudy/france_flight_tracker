@@ -1,0 +1,6 @@
+.env
+service_account.json
+.venv/
+*.json
+!.github/**
+__pycache__/
